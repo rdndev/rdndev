@@ -1,5 +1,5 @@
   <div id="About me" align="center"> 
-    <h1 align="center">Hi, I'm <a href="#" target="_blank">Dmitry</a> 
+    <h1 align="center"><a href="#" target="_blank">Welcome to my profile</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3 align="center">I'm a beginner QA Engineer and i'm currently studying</h3> 
     <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=1D97F7&width=435&lines=at+a+software+testing+course+by+Vadim+Ksendzov" alt="Typing SVG"/></a>
