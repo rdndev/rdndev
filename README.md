@@ -1,3 +1,10 @@
+<!-- <a href="#"><img src="https://ecosystem.etagi.com/img/logo.svg" style="width: 50px; max-width: 100%;" alt="Typing SVG"/></a> -->
+
+
+
+
+
+
 <div id="About me" align="center"> 
     <h1 align="center"><a href="#" target="_blank">Welcome to my profile</a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
